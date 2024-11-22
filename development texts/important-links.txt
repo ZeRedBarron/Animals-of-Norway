@@ -1,0 +1,7 @@
+Important Links.
+
+Coding: 
+
+https://www.khanacademy.org/computer-programming/true-parallax-scrolling/5752652814827520
+
+https://www.khanacademy.org/computer-programming/scroll-through-animations/5368781691240448
