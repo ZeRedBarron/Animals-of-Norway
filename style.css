@@ -2,3 +2,28 @@
 	margin: 0;
 	padding: 0;
 }
+
+
+body {
+    width : 100vw;
+    overflow-x : hidden;
+}
+
+p {
+    margin : 30px 10vw;
+    line-height : 1.45;
+    font-size : 18px;
+    letter-spacing : 0.1px;
+    font-family : sans-serif;
+}
+
+div {
+    width : calc(100vw + 18px);
+    height : 200px;
+    margin : 0 -6px;
+    outline-offset : -6px;
+    outline : 3px solid #FFFFFF;
+    background-size : cover;
+    background-repeat : no-repeat;
+    background-attachment : fixed;
+}
