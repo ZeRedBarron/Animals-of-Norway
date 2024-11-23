@@ -1,0 +1,7 @@
+Project Name: Animals of Norway
+
+Goal: to create a text based Choose your own adventure game
+
+Team Members:
+Paul Barron
+Owen Hardig
