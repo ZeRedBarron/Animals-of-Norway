@@ -17,12 +17,15 @@ https://www.khanacademy.org/computer-programming/guide-to-color-schemes-voldemor
 Glassmorphism webpage:
 https://www.khanacademy.org/computer-programming/glassmorphism-web-dev-trends-1/6350627101687808?width=600&height=600
 
+Webpage to refer to:
 https://www.khanacademy.org/computer-programming/black-hole-almanac/5829317730811904
 
+Webpage to refer to:
 https://www.khanacademy.org/computer-programming/galactours-teaser/6013650011635712
 
 https://www.khanacademy.org/computer-programming/i/5549764049420288
 
+Canvas reference:
 https://www.khanacademy.org/computer-programming/creating-graphics-in-webpages-tutorial/5212837118296064
 
 https://www.khanacademy.org/computer-programming/mebbe/4856189900505088
@@ -39,6 +42,7 @@ https://www.khanacademy.org/computer-programming/giving-thanks/6513015362584576
 
 https://www.khanacademy.org/computer-programming/tutorial-page-switching-html/6291090631376896
 
+Webpate to refer to:
 https://www.khanacademy.org/computer-programming/a-small-guide-to-web-design/4774943271337984
 
 Fonts:

@@ -10,7 +10,7 @@ body {
 }
 
 p {
-    margin : 30px 10vw;
+    margin : 30px 32vw;
     line-height : 1.45;
     font-size : 18px;
     letter-spacing : 0.1px;
@@ -18,11 +18,11 @@ p {
 }
 
 div {
-    width : calc(100vw + 18px);
+    width : calc(100vw);
     height : 200px;
-    margin : 0 -6px;
-    outline-offset : -6px;
-    outline : 3px solid #FFFFFF;
+    /*margin : 0 -6px;*/
+    /*outline-offset : -6px;*/
+    outline : 3px solid #ff0000;
     background-size : cover;
     background-repeat : no-repeat;
     background-attachment : fixed;
