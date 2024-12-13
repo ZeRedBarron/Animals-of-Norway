@@ -26,7 +26,7 @@ function ScrollImg(src, speed) {
 
 var img1 = document.getElementById("img1");
 
-var scroll1 = new ScrollImg("https://www.kasandbox.org/programming-images/animals/butterfly.png", 0.5);
+var scroll1 = new ScrollImg("graphics/green-background.jpg", 0.5);
 scroll1.setup();
 img1.appendChild(scroll1.element);
 scroll1.scroll();

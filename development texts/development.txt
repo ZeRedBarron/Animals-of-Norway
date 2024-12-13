@@ -1,7 +1,13 @@
 Project Name: Animals of Norway
+(content subject to change with little notice)
 
 Goal: to create a text based Choose your own adventure game
 
 Team Members:
-Paul Barron
-Owen Hardig
+    Paul Barron
+    Owen Hardig
+    Helena Engelhard
+
+Language: HTML, CSS, JS
+
+Art Style: Pencil shading
