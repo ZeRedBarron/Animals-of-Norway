@@ -5,8 +5,7 @@ A band of criminals is sent on a dangerous suicide research mission to a hostile
 
 Mission:
 Title: tbd
-About:
-photograph and sample life there to determine the cause of the former faliures
+About: photograph and sample life there to determine the cause of the former faliures
 
 
 Planet:
@@ -38,3 +37,4 @@ Creatures have mind influence?
 
 
 Mad Ideas:
+
