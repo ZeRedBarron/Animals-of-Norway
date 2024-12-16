@@ -1,7 +1,7 @@
 LOG LINE:
 A criminal is sent on a dangerous research mission to a hostile alien planet.
 
-A band of criminals is sent on a dangerous suicide research mission to a hostile alien planet, hoping to find the reason previous missions failed and gain their freedom in the process.
+A band of criminals is sent on a dangerous suicide research mission to a hostile alien planet, hoping to find the reason previous missions failed and thus gain their freedom.
 
 Mission:
 Title: tbd
@@ -9,24 +9,19 @@ About: photograph and sample life there to determine the cause of the former fal
 
 
 Planet:
-name: tbd
-
-Appearence: foggy, white?
-
-Climate:
-
-Forest.  looks like amazon rainforest.
+    Name: tbd
+    Appearence: foggy, white?
+    Climate:
+    Forest.  looks like amazon rainforest.
+    Why intrested: Minerals.  
+    Examples like planet: Endor?
 
 Creaturepedia:
-Animals of Norway?
+    Animals of Norway?
 
 
-Examples like planet:
-Endor?
 
-Why intrested:
 
-minerals? 
 
 3 former secret mission suddenly dissapeared.
 
@@ -37,4 +32,6 @@ Creatures have mind influence?
 
 
 Mad Ideas:
+
+You awake with a throbbing headache.  Your eyes snap open as you realize where you are.  
 
