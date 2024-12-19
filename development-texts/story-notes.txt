@@ -33,5 +33,14 @@ Creatures have mind influence?
 
 Mad Ideas:
 
-You awake with a throbbing headache.  Your eyes snap open as you realize where you are.  
+Secenario: You got in a fight and got knocked out and put in an escape pod
+You awake with a throbbing headache.  Your eyes snap open as you realize where you are.  The single porthole above reveals the [INSERT SHIP NAME]
+dissapearing rapidly over the horizon.  You silently curse [Insert crew here], your fate, the whole deal, and anything inbetween.
+You look over the rudimetory control panel.  The pod is in a stable orbit high above [PLANET NAME].  You are too far past the predesignated
+landing spot land within the vicintiy.  At your current position, your landing location would put you nearly one hundred miles from the designated
+landing zone.  In just two hours, you would be back to the right position.
+
+The waiter's wave, the average coffee.
+
+My brother apon hearing the name Engelhard...
 
