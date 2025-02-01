@@ -10,20 +10,39 @@ About: photograph and sample life there to determine the cause of the former fal
 
 Planet:
     Name: tbd
+    Code name: Norway
     Appearence: foggy, white?
-    Climate:
-    Forest.  looks like amazon rainforest.
+    Climate: 
+    Forest.  looks like amazon rainforest.  Good amount of fog.
     Why intrested: Minerals.  
     Examples like planet: Endor?
 
 Creaturepedia:
     Animals of Norway?
 
+    Small Lizard like creature.  
+    Makes a chirping noise.
+    Friendly...
+    When photographed, it either damages camera or the picture does not have the creature in it
+    no two people ever see it at once.
+    
+    idea: 2 crewmembers march toward escape rocket, then hear the chirp
+
+
 
 
 
 
 3 former secret mission suddenly dissapeared.
+
+First Mission:
+    Had a famous explorer
+
+Second Mission:
+    Name: Clumbus
+
+Third Mission:
+    Name: Persis
 
 Radios jammed, then bases destoryed.
 
